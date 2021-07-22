@@ -1,1 +1,2 @@
-# Bubble-War-Game
+Bubble War Game is a game built using Canvas API, Vanilla JavaScript and TailWind CSS. gsap library has been used for some animations and Local Storage has been used to keep track of the highest score of the user.
+The Game also has some sound effects.
